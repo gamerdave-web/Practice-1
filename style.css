@@ -56,6 +56,10 @@ button{
     border: none;
     font-size: 20px;
     cursor: pointer;
-    margin-left:25%;
     color: white;
+}
+button:hover{
+    background-color: lightblue;
+    color: black;
+    transition: 0.5s;
 }
