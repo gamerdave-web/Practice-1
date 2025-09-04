@@ -28,6 +28,10 @@ body{
     width: 250px;
     background-color: lightblue;
 }
+.input-group:focus{
+    border: 2px solid darkblue;
+    outline: none;
+}
 h2{
     color: white;
     font-size: 30px;
