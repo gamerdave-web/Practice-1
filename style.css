@@ -61,8 +61,8 @@ button{
 }
 button:hover{
     background-color: lightblue;
-    color: black;
-    transition: 2.5s;
+    color: black
+    transition: 0.5s;
 }
 .here a{
     color: white;
