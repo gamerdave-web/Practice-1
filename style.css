@@ -31,7 +31,12 @@ h2{
     color: white;
     font-size: 30px;
 }
-.checkbox input[type="checkbox"]{
+.checkbox{
     color: white;
     padding-right: 45%;
+}
+input[type="checkbox"]{
+    width: 15px;
+    height: 15px;
+    accent-color: black;
 }
