@@ -62,7 +62,7 @@ button{
 button:hover{
     background-color: lightblue;
     color: black;
-    transition: 0.5s;
+    transition: 2.5s;
 }
 .here a{
     color: white;
