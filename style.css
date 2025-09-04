@@ -27,11 +27,11 @@ body{
     height: 30px;
     width: 250px;
     background-color: lightblue;
-}
-.input-group:focus{
-    border: 2px solid darkblue;
     outline: none;
+    border: none;
+    border-radius: 5px;
 }
+
 h2{
     color: white;
     font-size: 30px;
