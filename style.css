@@ -31,7 +31,10 @@ body{
     border: none;
     border-radius: 5px;
 }
-
+a{
+    color: white;
+    text-decoration: none;
+}
 h2{
     color: white;
     font-size: 30px;
