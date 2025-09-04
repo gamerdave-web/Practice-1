@@ -5,7 +5,9 @@ body{
     padding: 20px;
 }
 .container{
-    width: auto;
+    width: 400px;
     margin: 0 auto;
-    background-color: white;
+    background-color: blue;
+    height: auto;
+    padding-bottom: 20px;
 }
