@@ -24,6 +24,9 @@ body{
     text-align: left;
     padding-left: 20px;
     padding-right: 20px;
-    height: 70px;
-    width: 350px;
+    height: 30px;
+    width: 250px;
+}
+h2{
+    color: white;
 }
